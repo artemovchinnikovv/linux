@@ -1,3 +1,0 @@
-to format flash drive (like in the Disks program)
-lsblk - to know name of your flash drive
-sudo dd if="path to your iso file"(like /home/artem/Downloads/ubuntu-22.04.4-desktop-amd64.iso) of=/dev/"name of your flash drive in the OS"(like sdc (not sdc1!!!)) bs=4M
